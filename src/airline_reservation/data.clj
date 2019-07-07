@@ -7,5 +7,4 @@
 
 (def weekdays 
   {:mon :w :tues :w :wed :w :thur :w :fri :w :sat :we :sun :we})
-
  
